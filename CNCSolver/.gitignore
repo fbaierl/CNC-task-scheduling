@@ -1,0 +1,5 @@
+#User
+
+/bin
+/build*
+*.user
